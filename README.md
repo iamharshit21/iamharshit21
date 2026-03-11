@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Harshit Singh 👋
 
-<!--
-**iamharshit21/iamharshit21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | MIS Reporting | Excel | SQL | Power BI | Data Visualization
 
-Here are some ideas to get you started:
+🎓 BBA – Data & Business Analytics  
+📊 Passionate about turning data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Skills
+- Microsoft Excel
+- Power BI
+- SQL
+- Data Visualization
+- Data Cleaning
+- Business Analytics
+
+## 📊 Featured Projects
+
+### 🏥 Hospital Analytics Dashboard
+Power BI dashboard analyzing hospital patient trends, revenue, diagnosis distribution and bed occupancy.
+
+### 🚗 Electric Vehicle Market Dashboard
+Analysis of EV adoption trends, top manufacturers, and market share using Power BI.
+
+### 🏏 IPL Analytics Dashboard
+Interactive dashboard analyzing IPL data (2008–2020) including team performance and match trends.
+
+## 🔗 Connect With Me
+
+LinkedIn:  
+https://linkedin.com/in/harshit-singh
+
+Email:  
+harshitsinghkv1@gmail.com
