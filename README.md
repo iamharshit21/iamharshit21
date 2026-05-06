@@ -27,7 +27,7 @@ Interactive dashboard analyzing IPL data (2008–2020) including team performanc
 ## 🔗 Connect With Me
 
 LinkedIn:  
-https://linkedin.com/in/harshit-singh
+https://linkedin.com/in/harshit-singh-a44159290
 
 Email:  
 harshitsinghkv1@gmail.com
